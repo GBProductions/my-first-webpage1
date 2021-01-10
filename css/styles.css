@@ -1,6 +1,7 @@
 h1 {
-    color: blue;
-    text-align: center;
+    color: green;
+    text-align: left;
+    font-weight: 50;
   }
   
   h2 {
@@ -9,10 +10,16 @@ h1 {
   }
   
   p {
-    font-family: sans-serif;
+    font-family: Arial;
+    font-weight: 50;
   }
   
   ul {
     font-size: 20px;
-    line-height: 30px;
+    line-height: normal;
+  }
+
+  img {
+    height: auto;
+    width: 300px;
   }
